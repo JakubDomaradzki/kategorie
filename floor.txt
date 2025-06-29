@@ -1,0 +1,66 @@
+1. Zasady 
+Gracze i plansza:
+Każdy gracz zaczyna na jednym polu planszy.
+Kwadratowa plansza ma kształt siatki 4x4.
+Maksymalna liczba uczestników to 16, jeśli będzie mniej, skrajne pola będą puste, nie wpłynie to na grę.
+Każdy gracz ma przypisaną jedną kategorię.
+
+Ruchy i wyzwania:
+Na początku gry losowany jest jeden kwadrat.
+Osoba do której ten kwadrat należy wybiera do pojedynku sąsiedniego gracza (na polu obok – tylko poziomo/pionowo).
+
+Pojedynki:
+Pojedynek toczy się w kategorii wyzwanego.
+Jeśli wygra osoba wyzywająca, zostaje przy swojej kategorii. 
+Jeśli wygra wyzwany - przejmuje kategorię przeciwnika.
+Przegrany w pojedynku (ten, któremu jako pierwszemu skończy się czas) kończy grę.
+Zwycięzca pojedynku może grać dalej - wyzwać sąsiada według nowego pola lub "wrócić" na planszę.
+Jeśli zdecyduje się wrócić - losowanie odbywa się ponownie.
+
+Przejęcia pól
+Jeśli wyzywający wygra, przejmuje pole przeciwnika.
+Jeśli przegra - jego pole przejmuje wyzwany.
+
+Czas i odpowiedzi:
+Odpowiedzi wyłącznie pisemne - możliwość pojedynków zarówno na komputerze jak i telefonie.
+Każdy gracz ma 90 sekund w jednym pojedynku.
+Trzy wygrane pojedynki z rzędu skutują otrzymaniem złotego pola i dodatkowych 10 sekund które można wykorzystać w przyszłym pojedynku.
+Jeśli pojedynek pomiędzy graczem ze zwykłym polem, a graczem ze złotym polem wygra ten ze zwykłym - przejmuje złote pole i możliwość dopisania dodatkowych 10 sekund.
+
+Wygrana:
+Gra toczy się do momentu, aż pozostanie jeden gracz na planszy – zostaje on zwycięzcą.
+
+
+2. Wybór kategorii
+Lista kategorii znajduje się pod linkiem: https://raw.githubusercontent.com/JakubDomaradzki/kategorie/refs/heads/main/kategorie.txt
+Wybór kategorii odbędzie się jutro (poniedziałek 30.06) o godzinie 19:00.
+Wybieranie kategorii będzie na zasadzie kto pierwszy ten lepszy - dlatego przy wyborze kategorii można stworzyć dowolnie długą listę n kategorii przy czym proszę ją ponumerować (1 - najbardziej pożądana kategoria, n - najmniej)
+Do max 30 minut przed wyborem kategorii można zgłosić nie więcej niż 3 własne propozycje kategorii (na priv).
+Jeśli kategoria będzie zbyt szczegółowa - nie zostanie dodana do listy wszystkich kategorii.
+Tego samego dnia zostanie utworzona plansza z przypisanymi do pól osobami wraz z kategoriami.
+
+
+3. Rozgrywka i pojedynki
+Rozgrywka odbędzie się na W2G - tam jest czat i najlepiej się porouzmiewać.
+Na w2g w formie udostępnienia ekranu pokazywana będzie cały czas plansza a także pojedynki (być może dodam do tego czasu możliwość dołączenia do pojedynku jako obserwator w apce, ale na ten moment pojedynek będzie można sledzić na ekranie w2g) 
+Pojedynki odbędą się w prostej aplikacji przeglądarkowej.
+Przed każdym pojedynkiem para która będzie się ze sobą mierzyć dostanie na czacie w2g ID pokoju do którego musi dołączyć.
+Po dołączeniu do pokoju należy wpisać swój nick i czekać na rozpoczęcie pojedynku.
+Podczas pojedynku w aplikacji widoczne są tylko: timer i nick twój i przeciwnika, zdjęcie z danej kategorii oraz pole w które trzeba wpisać odpowiedź i przyciski OK i PAS. Przyciski OK i PAS na komputerze obsługiwane są także przez kolejno Enter i ESC.
+Nie jest wymagane wpisywanie polskich ani wielkich liter, aplikacja tak czy siak zaliczy odpowiedź - wymagane są spacje jeśli odpowiedź ma więcej niż 1 człon.
+Przycisk PAS powoduje odczekanie 3 sekund, po odczekaniu 3 sekund nadal jest tura gracza który spasował. Odpowiedzi można wpisywać do skutku.
+
+
+4. Termin i czas trwania
+Całość będzie składała się z max 15 pojedynków. Każdy pojedynek to około 3 minuty, więc wszystkie pojedynki to mniej więcej 45 minut. Także 60-90 minut to powinien być max w ile się wyrobimy.
+Termin i godzinę ustalimy po wyborze kategorii jak już będzie wiadomo kto gra.
+
+
+
+
+
+
+
+
+
+
