@@ -1,0 +1,31 @@
+Nie ma obowiązku wpisywnaia polskich liter - zaliczy obie formy. Jeśli odpowiedź składa się z więcej niż 1 członu, spacja jest obowiązkowa. Wielkość liter nie ma znaczenia.
+
+1. Flagi - wyświetlona zostanie flaga, należy podać polską nazwę państwa. Skróty - BIH, DRK, RPA, USA, WKS, ZEA (pełna nazwa tych państw nie zadziała). Południowy/północny zadziała zarówno pełną nazwą jak i płd/płn.
+
+2. Matematyka - wyświetlone zostanie działanie (dodawanie/odejmowanie/mnożenie/dzielenie) należy podać wynik. Wynik może być od 0 do 999, a działania maksymalnie na liczbach dwucyfrowych.
+
+3. Pierwiastki chemiczne - wyświetlony zostanie symbol pierwiastka, należy podać nazwę. Nazwy z polskiej wikipedii, każdy pierwiastek ma tylko jedną przypisaną polską nazwę - jeśli jakiś w rzeczywistości ma np. dwie - nie zaliczy tej drugiej.
+
+4. Stolice - wyświetlona zostanie nazwa państwa - należy wpisać wyłącznie polską nazwę stolicy. Nazwy stolic z wikipedii. 
+
+5. Pokemony - wyświetlone zostanie zdjęcie pokemona - należy podać jego nazwę - każdy stwór ma przypisaną jedną nazwę (nazwy brane z https://pokemon.fandom.com/). 
+
+6. Polskie miasta - wyświetlone zostanie zdjęcie polskiego miasta. Należy podać jego pełną, polską nazwę.
+
+7. Piłkarze - zostanie wyświetlone zdjęcie piłkarza (obecnie grającego lub emerytowanego). Należy podać wyłącznie jego nazwisko. Nazwiska brane z https://www.transfermarkt.pl/. Odpowiedzi z imionami nie będą zaliczane przez system.
+
+8. Kluby piłkarskie - zostanie wyświetlony herb klubu. Należy podać jego nazwę. Nazwy klubów brane z https://www.transfermarkt.pl/. Można pominąć wyłącznie "FC" w nazwie - wtedy obie odpowiedzi będą akceptowane.
+
+9. Gry komputerowe - wyświetlony zostanie screeny z gry komputerowej. Należy podać jej nazwę, bez części, np. jeśli zostanie wyświetlony screen z GTA: San Andreas, prawidłową odpowiedzią będzie wyłącznie GTA.
+
+10. Skoczkowie narciarscy - zostanie wyświetlone zdjęcie skoczka narciarskiego (aktywnego lub emeryta). Należy podać wyłącznie jego nazwisko. Nazwiska brane z https://www.skijumping.pl/. Odpowiedzi z imionami nie będą zaliczane przez system.
+
+11. Języki świata - wyświetlone zostanie "przepraszam" w innym języku. Należy podać nazwę tego języka. Nazwy języków brane z wikipedii.
+
+12. Ryby - wyświetlone zostanie zdjęcie ryby. Należy podać jej polską nazwę. Każda nazwa składa się z wyłącznie jednego członu, czyli jak mamy dorsza czarnego lub atlantyckiego - w obu przypadkach prawidłowa odpowiedź to wyłącznie dorsz.
+
+13. Owoce - wyświetlone zostanie zdjęcie owoca. Należy podać jego polską nazwę. Każda nazwa = jeden człon.
+
+14. Rasy kotów - wyświetlone zostanie zdjęcie kota. Nazwy brane WYŁĄCZNIE z https://www.koty.pl/rasy. Nie wpisujemy słowa "kot" w odpowiedzi przy rasie, np. kot bengalski - samo bengalski będzie jedyną prawidłową odpowiedzią. Nazwy w nawiasie również akceptowane.
+
+15. Królowie i władcy Polski - wyświetlony zostanie portret króla lub władcy Polski. Należy podać kto znajduje się na zdjęciu. Nie wpisujemy rzymskich cyfr, przykład Kazimierz Wielki to jedyna prawidłowa odpowiedź, Kazimierz III Wielki nie zostanie zaliczony. Do władców zaliczeni będą także: książęta i prezydenci.
